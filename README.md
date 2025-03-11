@@ -26,6 +26,7 @@ Criar um aplicativo simples de sorteio
 
 <figure align="center">
   <img src="./images/teste.gif" alt="Minha Figura">
+  <br>
   <figcaption>Gif do funcionamento</figcaption>
 </figure>
 
