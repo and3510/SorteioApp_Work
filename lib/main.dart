@@ -147,6 +147,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   int _numeroSorteado = 0;
 
+
   List<int> numeros = [0,1,2,3,4,5,6,7,8,9,10];
 
   void sortear() {
@@ -170,11 +171,11 @@ class _MyHomePageState extends State<MyHomePage> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                'Texto em cima',
+                'Sorteie o seu numero',
                 style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.bold,
-                  color: Colors.red,
+                  color: const Color.fromARGB(255, 46, 44, 44),
                 ),
               ),
               const SizedBox(height: 50),
