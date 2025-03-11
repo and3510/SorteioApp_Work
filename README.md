@@ -9,3 +9,21 @@
 </div>
 
 
+## Equipe
+
+- and3510
+- whosbea
+- gustavodovale
+
+
+## Objetivo
+
+Criar um aplicativo simples de sorteio
+
+## Resultados
+
+<figure align="center">
+  <img src="./images/teste.gif" alt="Minha Figura">
+  <figcaption>Gif do funcionamento</figcaption>
+</figure>
+
